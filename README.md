@@ -56,8 +56,8 @@ Choose option (1-3) or enter custom shift:
 
 ### Help menu for other options
 ```bash
-❯ python3 visioner.py -h
-usage: visioner.py [-h] [-s SHIFTS [SHIFTS ...]] [-k KEY] [-o OUTPUT] file
+❯ python3 vigener_crack.py -h
+usage: vigener_crack.py [-h] [-s SHIFTS [SHIFTS ...]] [-k KEY] [-o OUTPUT] file
 
 Crack Vigenère cipher
 
